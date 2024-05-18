@@ -1,4 +1,5 @@
 % this is a matlab code utilized for the calculation between sleep and blood biomarkers
+clc,clear
 
 load sleepnewall
 subjid=table2array(sleepnewall(:,1));
